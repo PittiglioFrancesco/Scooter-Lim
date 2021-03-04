@@ -1,0 +1,64 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+.container{
+  border-radius: 15px;
+  width: 900px;
+  height: 700px;
+  padding: 80px 50px 0px 50px;
+  background: rgba(0, 0, 0, 0.5);/*Nero semi-trasparente*/
+  margin: auto;
+  text-align: center;
+}
+
+.logo{
+  width: 25%;
+}
+
+h2{
+  color: rgba(0, 230, 64, 1);/*Verde Lime*/
+}
+
+nav{
+  background-color: rgba(0, 230, 64, 1);/*Verde Lime*/
+  padding: 10px;
+  border-radius: 5px;
+  margin: 30px;
+}
+
+main{
+  text-align: left;
+  color: white;
+}
+
+.monopattino{
+  margin: 25px;
+}
+
+span{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.carica{
+  height: 20px;
+  border-radius: 5px;
+}
+
+#arancione{
+  background-color: orange;
+    width: 40%;
+}
+
+#verde{
+  background-color: green;
+    width: 60%;
+}
+
+#rosso{
+  background-color: red;
+    width: 20%;
+}
